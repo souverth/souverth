@@ -1,7 +1,7 @@
-<img alt="banner" style="width:100vw" src="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">
+<img alt="banner" style="width:100" src="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">
 
 <h1 align="center">Hi 👋, I'm Nguyễn Trọng Kiên</h1>
-<h3 align="center">I am a Developer</h3>
+<h3 align="center">I am a Fullstack Developer</h3>
 
 ### 🛠 My knowledge
 
