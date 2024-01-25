@@ -1,4 +1,4 @@
-<img alt="banner" style="width:100" src="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">
+<img alt="banner" style="width:100" src="https://giphy.com/gifs/pudgypenguins-chat-typing-chatting-U8RLgaGFiwXsZc8YUw">
 
 <h1 align="center">Hi 👋, I'm Nguyễn Trọng Kiên</h1>
 <h3 align="center">I am a Fullstack Developer</h3>
