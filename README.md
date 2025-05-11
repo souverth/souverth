@@ -35,21 +35,4 @@
 
 ---
 
-### 📌 Dự án nổi bật
-
-| Tên dự án | Mô tả ngắn | Công nghệ |
-|-----------|------------|-----------|
-| **🔐 AuthPro** | Hệ thống xác thực người dùng có phân quyền nâng cao | `Node.js`, `JWT`, `MongoDB`, `React` |
-| **📚 EduQuiz** | Nền tảng tạo và làm bài kiểm tra online | `React`, `TailwindCSS`, `Express`, `MongoDB` |
-| **📁 FileShare** | Ứng dụng chia sẻ file đơn giản, bảo mật bằng token | `Vue`, `Node.js`, `MongoDB` |
-
----
-
-### ⏳ Career Timeline
-
-```text
-🎓 2020: Bắt đầu học lập trình Web
-💻 2021: Hoàn thiện nhiều mini projects, học sâu JavaScript/React
-🚀 2022: Thực tập và phát triển hệ thống nội bộ tại doanh nghiệp
-🧠 2023: Làm việc freelance & triển khai các sản phẩm thực tế
-🛠 2024: Tập trung backend, tối ưu hệ thống, bảo mật và kiến trúc
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={souverth}&theme={zenburn}"/>
