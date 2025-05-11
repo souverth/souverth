@@ -3,7 +3,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souverth&" alt="souverth" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=souverth&theme=dark-minimalist&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souverth&label=Profile%20views&color=0e75b6&style=flat" alt="souverth" /> </p>
