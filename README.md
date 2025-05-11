@@ -3,14 +3,14 @@
 
 <!-- Avatar + Name -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" width="120px" style="border-radius: 50% !important; border: 3px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" alt="avatar"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="120px" style="border-radius: 50% !important; border: 3px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" alt="avatar"/>
 </p>
 
-<h1 align="center">Xin chào 👋, mình là Nguyễn Trọng Kiên</h1>
-<h3 align="center">🚀 Fullstack Developer | Đam mê học hỏi | Xây dựng sản phẩm có tầm ảnh hưởng</h3>
+<h1 align="center">Hi 👋, I'm Ethan</h1>
+<h3 align="center">🚀 Fullstack Developer | Passionate to learn | Product construction is influential</h3>
 
 <p align="center">
-  <i>"Viết code không chỉ để chạy, mà còn để thay đổi cách con người tương tác với thế giới."</i>
+  <i>"Write code not only to run, but also to change the way people interact with the world."</i>
 </p>
 
 ---
