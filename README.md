@@ -1,55 +1,17 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/qC4tL1k.png" style="width:100%;" alt="banner" />
+<h1 align="center">Hi 👋, I'm Ethan</h1>
+<h3 align="center">"Write code not only to run, but also to change the way people interact with the world."</h3>
 
-<!-- Avatar + Name -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/74038190?v=4" width="120px" style="border-radius: 50%" alt="avatar"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=souverth&label=Profile%20views&color=0e75b6&style=flat" alt="souverth" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/souverth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="souverth" height="30" width="40" /></a>
+<a href="https://instagram.com/souverth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souverth" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Xin chào 👋, mình là Nguyễn Trọng Kiên</h1>
-<h3 align="center">🚀 Fullstack Developer | Đam mê học hỏi | Xây dựng sản phẩm có tầm ảnh hưởng</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <i>"Viết code không chỉ để chạy, mà còn để thay đổi cách con người tương tác với thế giới."</i>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souverth&show_icons=true&locale=en" alt="souverth" /></p>
 
----
-
-### 🧠 Tech Stack
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=flat-square&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-### 📌 Dự án nổi bật
-
-| Tên dự án | Mô tả ngắn | Công nghệ |
-|-----------|------------|-----------|
-| **🔐 AuthPro** | Hệ thống xác thực người dùng có phân quyền nâng cao | `Node.js`, `JWT`, `MongoDB`, `React` |
-| **📚 EduQuiz** | Nền tảng tạo và làm bài kiểm tra online | `React`, `TailwindCSS`, `Express`, `MongoDB` |
-| **📁 FileShare** | Ứng dụng chia sẻ file đơn giản, bảo mật bằng token | `Vue`, `Node.js`, `MongoDB` |
-
----
-
-### ⏳ Career Timeline
-
-```text
-🎓 2020: Bắt đầu học lập trình Web
-💻 2021: Hoàn thiện nhiều mini projects, học sâu JavaScript/React
-🚀 2022: Thực tập và phát triển hệ thống nội bộ tại doanh nghiệp
-🧠 2023: Làm việc freelance & triển khai các sản phẩm thực tế
-🛠 2024: Tập trung backend, tối ưu hệ thống, bảo mật và kiến trúc
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souverth&" alt="souverth" /></p>
