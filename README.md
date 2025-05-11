@@ -35,4 +35,4 @@
 
 ---
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={souverth}&theme={zenburn}"/>
+<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={souverth}&theme={zenburn}" alt="GitHub Streak" /></a>
