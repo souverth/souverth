@@ -1,9 +1,9 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/qC4tL1k.png" style="width:100%;" alt="banner" />
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" style="width:100%;" alt="banner" />
 
 <!-- Avatar + Name -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="120px" style="border-radius: 50%" alt="avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/74038190?v=4" width="120px" style="border-radius: 50%" alt="avatar"/>
 </p>
 
 <h1 align="center">Xin chào 👋, mình là Nguyễn Trọng Kiên</h1>
