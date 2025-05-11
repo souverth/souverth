@@ -3,7 +3,7 @@
 
 <!-- Avatar + Name -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/74038190?v=4" width="120px" style="border-radius: 50%" alt="avatar"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" width="120px" style="border-radius: 50%" alt="avatar"/>
 </p>
 
 <h1 align="center">Xin chào 👋, mình là Nguyễn Trọng Kiên</h1>
